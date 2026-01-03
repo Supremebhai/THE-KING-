@@ -9,4 +9,4 @@ function startTimer(t){
     }
   },1000);
 }
-startTimer(5);
+startTimer(35);
